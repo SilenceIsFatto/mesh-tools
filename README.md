@@ -30,7 +30,7 @@ Clears the mesh split normal data which is commonly already set when using model
 
 ---
 
-### "Transfer Weights (Multiple Meshes)
+### "Transfer Weights (Multiple Meshes)"
 Transfers weights from 1 model to X amount of meshes. 
 
 This is useful when, for example, trying to rig a uniform to a character and you need to transfer the characters weights to a vest, helmet, and uniform (as seperate meshes).
