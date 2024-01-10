@@ -1,5 +1,5 @@
 # Mesh Utilities
-A blender addon that adds a new menu - "Mesh Utilities"
+A blender addon that adds a new right-click menu - "Mesh Utilities"
 
 ---
 
